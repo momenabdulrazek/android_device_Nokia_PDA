@@ -16,7 +16,7 @@
 
 ifneq ($(filter PDA,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device//PDA/
+LOCAL_PATH := device/PDA/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
