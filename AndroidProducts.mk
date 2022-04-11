@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device//PDA/
+LOCAL_PATH := device/PDA/
 
 PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_PDA.mk
