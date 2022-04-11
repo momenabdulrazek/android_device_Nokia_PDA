@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device//PDA
+LOCAL_PATH := device/PDA
 
 TARGET_BOARD_PLATFORM := mt6771
 TARGET_BOOTLOADER_BOARD_NAME := PDA
